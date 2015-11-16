@@ -1,17 +1,13 @@
-# WCF_RESTful_WebService
+# WCF RESTful Web Service
 A template for a WCF RESTful web service with all CRUD operations
+ 
+### By Carmel Shvartzman
+### For  <a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
+This is the companion code for the following Tutorial:
 
+http://themvcclub.blogspot.com/2015/11/make-wcf-restful-web-service-with-crud-operations-in-5-minutes.html
 
-
-
-
-
-
-
-
-
-
-
+<a href="http://themvcclub.blogspot.com/2015/11/make-wcf-restful-web-service-with-crud-operations-in-5-minutes.html" imageanchor="1" target="_self" style="margin-left: 1em; margin-right: 1em;">
 
 
 
@@ -157,3 +153,31 @@ Finally, create the method to handle HTTP DELETE requests, as follows:</div>
 <div class="separator" style="clear: both; text-align: center;">
 <a href="http://1.bp.blogspot.com/-5Y9XEJ5pUOw/VkmHbkc9RAI/AAAAAAAALxU/6eiDv-CYuG8/s1600/18.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img alt="Make a WCF RESTful Web Service with CRUD operations in 5 minutes" border="0" height="380" src="http://1.bp.blogspot.com/-5Y9XEJ5pUOw/VkmHbkc9RAI/AAAAAAAALxU/6eiDv-CYuG8/s640/18.png" width="570" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
+
+
+
+
+
+
+
+<div style="direction: rtl;">
+פיתוח: כרמל שוורצמן</div>
+
+</a>
+
+###<a href="http://themvcclub.blogspot.com/"   target="_new"  >The MVC Club</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
