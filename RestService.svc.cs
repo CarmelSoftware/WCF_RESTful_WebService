@@ -6,7 +6,6 @@ using System.ServiceModel;
 using System.ServiceModel.Activation;
 using System.ServiceModel.Web;
 using System.Text;
-
 namespace WCFRESTful
 {
     [ServiceContract(Namespace = "")]
